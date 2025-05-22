@@ -1,0 +1,31 @@
+#Preliminary Data Analysis Part
+#This is the first part of the assignment where the dataset is loaded and the trends of the data is studies
+
+##dataset-details
+##Net hourly electrical energy (y) = x2 with other input x2: Net hourly electrical energy output (EP) in MW (dependent variable), x1: Temperature (T) – Ambient temperature (°C), x3: Ambient Pressure (AP) – Atmospheric pressure (millibar), x4: Relative Humidity (RH)– Humidity level (%), x5: Exhaust Vacuum (V) – Vacuum collected from the steam turbine (cm Hg) 
+```{r}
+data <- read.csv("C:/Masters Study Materials/Assignment/dataset.csv")
+head(data)
+```
+
+#Create time index and select input and output columns from the data
+```{r}
+#create time index from all the row number for time series plot
+t <- 1:nrow(data)
+write.csv(t, "t.csv", row.names = FALSE)
+#nrow(data) gives us the number of rows in the data set
+
+#Select input columns(x1,x3,x4,x5)
+x <- data[, c("x1", "x3", "x4", "x5")]
+write.csv(x, "x.csv", row.names = FALSE)
+
+#Select output columns(x2)
+y <- data[, "x2"]
+write.csv(y, "y.csv", row.names = FALSE)
+
+```
+
+```{r}
+
+```
+

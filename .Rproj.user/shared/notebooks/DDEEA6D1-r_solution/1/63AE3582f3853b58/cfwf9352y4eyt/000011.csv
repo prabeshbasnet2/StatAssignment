@@ -1,0 +1,2 @@
+"0","density_of_X=density(X)"
+"0","plot(density_of_X,main = ""Density plot of input signal X"")"

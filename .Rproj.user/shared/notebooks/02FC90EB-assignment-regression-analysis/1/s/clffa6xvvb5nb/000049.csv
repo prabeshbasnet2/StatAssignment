@@ -1,0 +1,3 @@
+"0","# Add the data-points with noise in the X-axis"
+"0","rug(jitter(Y[,""y""]))"
+"0",""

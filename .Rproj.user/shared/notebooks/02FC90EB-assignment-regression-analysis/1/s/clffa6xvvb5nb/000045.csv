@@ -1,0 +1,5 @@
+"0",""
+"0",""
+"0","#Creating a density plot of output signal y - Energy Output(EP)"
+"0","density_of_y=density(Y[,""y""])"
+"0","hist(Y[,""y""],freq = FALSE,main = ""Histogram and density plot of y"",xlab = ""y Signal"")"

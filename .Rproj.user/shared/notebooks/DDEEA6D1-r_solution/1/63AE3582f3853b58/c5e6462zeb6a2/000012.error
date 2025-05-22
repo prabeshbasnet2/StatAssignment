@@ -1,0 +1,1 @@
+{"frames":[{"func":"ts(X, start = c(min(time), max(time)), frequency = 1)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in if (start > end) stop(\"'start' cannot be after 'end'\") : \n  missing value where TRUE/FALSE needed\n"}

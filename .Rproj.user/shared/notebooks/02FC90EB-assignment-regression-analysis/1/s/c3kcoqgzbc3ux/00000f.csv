@@ -1,0 +1,4 @@
+"0","par(mfrow=c(2,2)) #par(mfrow=c(2,2)) this sets the plotting layout to a 2x2 grid"
+"0",""
+"0","# Plotting input signal X1 against output signal Y"
+"0","plot(X[,""x1""],Y,main = ""Correlation betweeen X1 and Y signal"", xlab = ""X1 signal"", ylab = ""Output signal y"")"

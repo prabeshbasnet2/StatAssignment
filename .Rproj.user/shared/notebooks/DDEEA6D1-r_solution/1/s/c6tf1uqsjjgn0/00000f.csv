@@ -1,0 +1,33 @@
+"0","install.packages(""matlib"")"
+"1","Error in "
+"1",""
+"1","install.packages"
+"1",""
+"1"," : "
+"1",""
+"1","Updating loaded packages"
+"1",""
+"1","
+"
+"0","install.packages(""rsample"")"
+"2","Installing package into ‘C:/Users/ASUS/AppData/Local/R/win-library/4.4’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.4/rsample_1.3.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 580059 bytes (566 KB)
+"
+"2","downloaded 566 KB
+
+"
+"1","package ‘rsample’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\ASUS\AppData\Local\Temp\RtmpEzGEgu\downloaded_packages"
+"1",""
+"1","
+"

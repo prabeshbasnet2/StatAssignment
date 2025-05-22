@@ -1,0 +1,30 @@
+{
+    "id": "5A92BFF0",
+    "path": "C:/Masters Study Materials/Assignment/pp_assignment/assignment-data-analysis.rmd",
+    "project_path": "assignment-data-analysis.rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1747251054915.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "false",
+        "cursorPosition": "31,0",
+        "scrollLine": "0",
+        "rmdVisualCollapsedChunks": "",
+        "ignored_words": "nrow\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1747315221,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747315221042,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,8 @@
+"0","model1 <- c(RSS_Model_1)"
+"0","model2 <- c(RSS_Model_2)"
+"0","model3 <- c(RSS_Model_3)"
+"0","model4 <- c(RSS_Model_4)"
+"0","model5 <- c(RSS_Model_5)"
+"0",""
+"0","dfRSS <- data.frame(model1, model2,model3,model4,model5)"
+"0","dfRSS"

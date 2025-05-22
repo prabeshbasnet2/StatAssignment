@@ -1,0 +1,5 @@
+"0",""
+"0",""
+"0","#Creating a density plot of input signal X4 - Relative Humidity(RH)"
+"0","density_of_X4=density(X[,""x4""])"
+"0","hist(X[,""x4""],freq = FALSE,main = ""Histogram and density plot of x4"",xlab = ""x4 Signal"")"

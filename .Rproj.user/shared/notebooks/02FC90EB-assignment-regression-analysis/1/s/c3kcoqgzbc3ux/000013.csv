@@ -1,0 +1,3 @@
+"0",""
+"0","# Plotting input signal X4 against output signal Y"
+"0","plot(X[,""x4""],Y,main = ""Correlation betweeen X4 and Y signal"", xlab = ""X4 signal"", ylab = ""Output signal y"")"

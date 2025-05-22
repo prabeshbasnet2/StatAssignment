@@ -1,0 +1,5 @@
+"0","X.ts<-ts(X,start = c(min(time),max(time)),frequency =1)"
+"2","Warning: NAs introduced by coercion"
+"2","Error in if (start > end) stop(""'start' cannot be after 'end'"") : 
+  missing value where TRUE/FALSE needed
+"

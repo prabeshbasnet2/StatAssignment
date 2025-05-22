@@ -1,0 +1,8 @@
+"0","model1 <- c(K_model1)"
+"0","model2 <- c(K_model2)"
+"0","model3 <- c(K_model3)"
+"0","model4 <- c(K_model4)"
+"0","model5 <- c(K_model5)"
+"0",""
+"0","dfK <- data.frame(model1, model2,model3,model4,model5)"
+"0","dfK"

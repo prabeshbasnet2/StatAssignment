@@ -1,0 +1,2 @@
+"0","X=as.matrix(read.csv(file=""C:/Masters Study Materials/Intro To Stat/r-solution/r-solution/x.csv"",header = F))"
+"0","colnames(X)<-c(""x1"",""x3"",""x4"",""x5"")"

@@ -1,0 +1,4 @@
+"0","hist(X,freq = FALSE,main = ""Density"")"
+"2","Error in hist.default(X, freq = FALSE, main = ""Density"") : 
+  'x' must be numeric
+"

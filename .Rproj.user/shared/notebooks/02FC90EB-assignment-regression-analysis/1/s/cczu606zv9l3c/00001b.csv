@@ -1,0 +1,3 @@
+"0",""
+"0","###ploting Joint and Marginal Posterior Distribution of the graph"
+"0","plot(f_value,s_value, col = c(""orange"", ""green""), main = ""Joint and Marginal Posterior Distribution"")"

@@ -1,0 +1,2 @@
+"0","data <- read.csv(""C:/Masters Study Materials/Assignment/dataset.csv"")"
+"0","head(data)"

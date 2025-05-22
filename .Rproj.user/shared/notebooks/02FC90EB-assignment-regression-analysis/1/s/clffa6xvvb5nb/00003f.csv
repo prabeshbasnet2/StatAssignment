@@ -1,0 +1,4 @@
+"0",""
+"0","#Creating a density plot of input signal X5 - Exhaust Vacuum (V)"
+"0","density_of_X5=density(X[,""x5""])"
+"0","hist(X[,""x5""],freq = FALSE,main = ""Histogram and density plot of x5"",xlab = ""x5 Signal"")"

@@ -1,0 +1,20 @@
+
+What is this dataset?
+
+- It's data collected from a power plant running at **full load** between **2006 and 2011**.
+- It has **9,568 rows** — each row is one hour of recorded data.
+- There are **5 columns (variables)**: 4 inputs and 1 output.
+
+---
+
+What are the variables?
+
+| Variable | Name                   | Meaning                                                           |
+|----------|------------------------|-------------------------------------------------------------------|
+| `x1`     | Temperature (T)        | Ambient air temperature in °C — affects gas turbine efficiency.  |
+| `x3`     | Ambient Pressure (AP)  | Air pressure in millibar — impacts combustion in gas turbine.    |
+| `x4`     | Relative Humidity (RH) | How humid the air is (%) — can affect air density.               |
+| `x5`     | Exhaust Vacuum (V)     | Vacuum pressure from steam turbine (cm Hg) — affects efficiency. |
+| `x2`     | **Energy Output (EP)** | **How much electricity the plant generated in MW** (this is the **output**). |
+
+Note: Although `x2` is labeled second, it is the dependent variable — the **thing we’re trying to predict**.

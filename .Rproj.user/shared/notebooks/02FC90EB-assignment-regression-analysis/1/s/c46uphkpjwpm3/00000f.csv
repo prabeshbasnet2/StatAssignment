@@ -1,0 +1,2 @@
+"0","X.ts <- ts(X, start = 1, frequency = 1)"
+"0","Y.ts <- ts(Y, start = 1, frequency = 1)"

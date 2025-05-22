@@ -1,0 +1,5 @@
+"0",""
+"0",""
+"0","#Creating a density plot of input signal X3 - Ambient Pressure(AP)"
+"0","density_of_X3=density(X[,""x3""])"
+"0","hist(X[,""x3""],freq = FALSE,main = ""Histogram and density plot of x3"",xlab = ""x3 Signal"")"

@@ -1,0 +1,8 @@
+"0","model1 <- c(AIC_model1)"
+"0","model2 <- c(AIC_model2)"
+"0","model3 <- c(AIC_model3)"
+"0","model4 <- c(AIC_model4)"
+"0","model5 <- c(AIC_model5)"
+"0",""
+"0","dfAIC <- data.frame(model1, model2,model3,model4,model5)"
+"0","dfAIC"

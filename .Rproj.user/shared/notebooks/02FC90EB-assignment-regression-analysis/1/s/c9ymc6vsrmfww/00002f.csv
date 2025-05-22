@@ -1,0 +1,5 @@
+"0",""
+"0","## Error of model4"
+"0","model4_error <- Y-Y_hat_model4"
+"0","## Plotting QQplot and QQ line of model 4"
+"0","qqnorm(model4_error, col = ""darkgreen"",main = ""QQ plot of model 4"")"
